@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LabaDLG5Task/1.0.0": {
+        "runtime": {
+          "LabaDLG5Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabaDLG5Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
